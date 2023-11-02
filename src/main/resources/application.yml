@@ -6,4 +6,4 @@ eureka:
     fetch-registry: false
     register-with-eureka: false
     service-url:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: https://discovery-server-smai.onrender.com/eureka
